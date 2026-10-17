@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Game Launcher</string>
+    <string name="library_eyebrow">KÜTÜPHANE</string>
+    <string name="games_title">Oyunlarım</string>
+    <string name="games_subtitle">Bir oyun seç, kaldığın yerden devam et.</string>
+    <string name="search_games">Oyun ara</string>
+    <string name="clear_search">Temizle</string>
+    <string name="all_games">Tüm oyunlar</string>
+    <string name="empty_title">Oyunların burada</string>
+    <string name="empty_message">Cihazına yüklediğin ve Android tarafından oyun olarak tanınan uygulamalar burada görünür.</string>
+    <string name="no_results">Oyun bulunamadı</string>
+    <string name="search_message">Başka bir oyun adıyla tekrar ara.</string>
+    <string name="load_error">Oyunlar yüklenemedi.</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="open_game">%1$s oyununu aç</string>
+    <string name="launch_error">Oyun açılamadı. Yüklü olduğundan emin ol.</string>
+</resources>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <title>Game Launcher</title>
+  <desc>Beyaz yuvarlatılmış zemin üzerinde üç siyah halka ve bir siyah X.</desc>
+  <path fill="#FFFFFF" d="M256 16C76 16 16 76 16 256s60 240 240 240 240-60 240-240S436 16 256 16Z"/>
+  <g stroke="#000000" stroke-width="30">
+    <circle cx="174" cy="170" r="46"/>
+    <circle cx="174" cy="334" r="46"/>
+    <circle cx="338" cy="334" r="46"/>
+    <path d="m300 132 76 76m0-76-76 76" stroke-linecap="square"/>
+  </g>
+</svg>
